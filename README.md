@@ -1,13 +1,13 @@
 # Latihan-VCS
 Cara menggunakan GIT
-1. Login GIT
-2. Kemudian Login Github
-3. Buat Repository
-4. Buat Folder pada Windows
-5. Buka Folder Menggunakan Git Bash
-6. Ubah Folder Menjadi Repository
-7. Tambahkan File ke Repository
-8. Buat Commit berfungsi untuk menambahkan update file serta komentar
-9. Remote Respository Github berfungsi untuk mengupload file yang telah anda buat sebelumnya di local disk
-10. Push ke Github ini berfungsi untuk mengupload hasil akhir dari langkah-langkah di atas
-11. Cek File yang telah anda buat
+
+intalasi
+1. Download terlebih dahulu GIT di google dengan kata kunci git-scm.
+2. Download sesuai rekomendesi dari GIT (misal: windows/macOs/lainnya).
+3. Setelah download terinstal lakukan konfigurasi aplikasi, klik kanan pada mouse maka akan tampil 'git bash here'
+
+Cara menjalankan GIT
+1. Klik kanan pada maouse di folder yang kosong, lalu git bash here
+2. Lalu, akan muncul sebuah command line
+3. Lakukan konfigurasi dengan menjalankan 'git config' yang berisi username dan email
+4. Lalu
