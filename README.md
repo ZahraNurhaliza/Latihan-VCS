@@ -15,3 +15,6 @@
 6. Lalu 'git commit' untuk menyimpan perubahan ke dalam database git
 7. Lalu 'git remote add origin' untuk meremote repository local ke server
 8. Lalu 'git push -u origin master' untuk mengupload repository local ke server
+
+#### Contoh Gambar Menjalankan GIT
+![image1](
