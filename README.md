@@ -17,4 +17,6 @@
 8. Lalu 'git push -u origin master' untuk mengupload repository local ke server
 
 #### Contoh Gambar Menjalankan GIT
-![image1](
+![image1](https://github.com/ZahraNurhaliza/LatihanVCS/blob/main/screenshot/git1.jpg)
+![image2](https://github.com/ZahraNurhaliza/LatihanVCS/blob/main/screenshot/git2.png)
+![image3](https://github.com/ZahraNurhaliza/LatihanVCS/blob/main/screenshot/git3.png)
