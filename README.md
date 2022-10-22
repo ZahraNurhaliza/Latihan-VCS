@@ -7,7 +7,7 @@
 3. Setelah download terinstal lakukan konfigurasi aplikasi, klik kanan pada mouse maka akan tampil 'git bash here'
 
 ### Cara menjalankan GIT
-1. Klik kanan pada maouse di folder yang kosong, lalu git bash here
+1. Klik kanan pada mouse di folder yang kosong, lalu git bash here
 2. Lalu, akan muncul sebuah command line
 3. Lakukan konfigurasi dengan menjalankan 'git config' yang berisi username dan email
 4. Lalu 'git init' untuk membuat respository local
